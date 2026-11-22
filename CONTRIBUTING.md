@@ -1,4 +1,4 @@
-# CLAUDE.md
+# Contributing
 
 Churn baseline (scikit-learn) → MLflow tracking → versioned artifact → FastAPI.
 
@@ -29,7 +29,7 @@ After changing `pyproject.toml` dependencies, relock:
 - English for code, docs, issues, PRs. Python 3.11+, ruff, line length 100.
 - One logical change per commit; imperative subject (`Add model rollback endpoint`).
   No `Co-Authored-By` trailers.
-- Work on `claude/<issue-number>-<slug>` branches; open a PR that links the issue.
+- Work on `feat/<issue-number>-<slug>` branches; open a PR that links the issue.
   Never push to `main`, never merge.
 - If the README example output changes, update it in the same commit and explain why.
 

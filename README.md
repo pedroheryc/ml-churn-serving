@@ -99,4 +99,4 @@ Configuration: `CHURN_MODEL_DIR` (default `artifacts/models`), `CHURN_MODEL_VERS
 
 ## License
 
-MIT. Developed with assistance from Claude Code.
+MIT.
