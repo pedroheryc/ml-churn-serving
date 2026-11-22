@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "tenure_months": 2,
+      "monthly_charges": 95.5,
+      "support_tickets_90d": 3,
+      "contract_type": "month-to-month",
+      "payment_method": "electronic-check",
+      "internet_service": "fiber",
+      "paperless_billing": true
+    },
+    {
+      "tenure_months": 60,
+      "monthly_charges": 30.0,
+      "support_tickets_90d": 0,
+      "contract_type": "two-year",
+      "payment_method": "credit-card",
+      "internet_service": "none",
+      "paperless_billing": false
+    }
+  ]
+}
